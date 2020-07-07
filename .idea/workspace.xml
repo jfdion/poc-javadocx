@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58a0002b-7934-4ca3-aef1-c3403f7850fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eMdr9Nu2ubnwsSmoHehYWEHLj8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lib/javadocx trial/dist/javadocx.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProcessTemplate (1)">
+    <configuration name="ProcessTemplate (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProcessTemplate" />
+      <module name="poc-javadocx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessTemplate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ulaval.brio.poc.ProcessTemplate" />
+      <module name="poc-javadocx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ulaval.brio.poc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProcessTemplate (1)" />
+        <item itemvalue="Application.ProcessTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58a0002b-7934-4ca3-aef1-c3403f7850fd" name="Default Changelist" comment="" />
+      <created>1594135592078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594135592078</updated>
+      <workItem from="1594135594881" duration="6643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1594139652835">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594139652835" />
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594142614512">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594142614512" />
+    <state x="1077" y="585" key="DetectedRootsChooserDialog" timestamp="1594135700069">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1077" y="585" key="DetectedRootsChooserDialog/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594135700069" />
+    <state x="986" y="441" key="FileChooserDialogImpl" timestamp="1594135698770">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="986" y="441" key="FileChooserDialogImpl/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594135698770" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1594143068836">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594143068836" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1594143068836">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594143068836" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1594143068835">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594143068835" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1594143068836">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594143068836" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1594135703182">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594135703182" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1594142652162">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/2560.480.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1594142652162" />
+  </component>
+</project>
